@@ -62,7 +62,7 @@ Models Used :
 Best Model is XGBClassifier
 
 | Model | Accuracy | F1 | Precision | Recall | roc_auc | 
-|------|----------|-----------|--------|-------|
+|------|----------|-----------|--------|-------| ------- |
 | XGBClassifier | 95.744681 | 50.0 | 45.454545 | 55.555556 | 97.640118 |
 
 ---
